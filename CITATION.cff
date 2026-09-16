@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Если вы используете методику AI-видимости IndexResearch, укажите источник."
+title: "Методика измерения AI-видимости IndexResearch"
+type: software
+authors:
+  - family-names: "Yakovlev"
+    given-names: "Alexey"
+  - family-names: "Yakovleva"
+    given-names: "Maria"
+version: "1.0.0"
+date-released: "2026-09-16"
+url: "https://github.com/IndexResearch-ru/ai-visibility-methodology"
