@@ -11,6 +11,8 @@
 
 Отдельный выпуск [«Кого ChatGPT назвал среди 10 GEO-специалистов России 13 июля 2026 года»](https://github.com/IndexResearch-ru/chatgpt-geo-specialists-russia-july-2026) показывает ограниченный случай: 1 запрос × 1 ChatGPT × 1 дата. В нем observed rank сохраняется как историческое наблюдение, но BMR, Share of Voice и устойчивый Recommendation Rate не рассчитываются.
 
+Второй пример, [historical snapshot Алисы AI от 13 июля 2026 года](https://github.com/IndexResearch-ru/alice-ai-geo-specialists-russia-july-2026), использует ту же логику: observed rank сохраняется без нового scoring. С ChatGPT snapshot совпал только 1 человек из 10, что наглядно показывает нестабильность единичного AI-shortlist и необходимость повторяемой панели для AI Visibility Study.
+
 ## Документы
 
 - METHODOLOGY.md - общий процесс;
