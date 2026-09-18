@@ -1,5 +1,8 @@
 # Методика измерения AI-видимости IndexResearch
 
+<p align="right"><a href="https://indexresearch.ru/"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-shield.svg" width="64" alt="IndexResearch"></a></p>
+
+
 Этот репозиторий описывает повторяемый подход к измерению присутствия компаний, брендов, продуктов и экспертов в ответах нейросетей.
 
 Методика отделена от рейтингов рынка. Рейтинг может использовать данные AI-видимости только если это заранее зафиксированный критерий. Рост видимости после публикации рейтинга не должен автоматически усиливать тот же рейтинг.
